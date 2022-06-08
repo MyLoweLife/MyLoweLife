@@ -30,7 +30,7 @@
 <h1 align="center">Hi, I'm Tony</h1>
 <h3 align="center">A passionate full stack developer from the Bronx, NY</h3>
 
-- 🔭 I’m currently working on **my Github reops**
+- 🔭 I’m currently working on **my Github repos**
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
